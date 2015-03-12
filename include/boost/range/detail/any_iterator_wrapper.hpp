@@ -14,6 +14,7 @@
 #include <boost/range/config.hpp>
 #include <boost/range/detail/any_iterator_interface.hpp>
 #include <boost/range/concepts.hpp>
+#include <boost/polymorphic_cast.hpp>
 
 namespace boost
 {
